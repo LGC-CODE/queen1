@@ -140,7 +140,7 @@ https://templatemo.com/tm-521-get-ready
      <section id="home">
           <div class="overlay" style="position: absolute; overflow: hidden;">
                <video src="https://jesus-nazareth.s3.us-east-2.amazonaws.com/2020/03/myqueen.mp4"
-                    style="width: 120%; height: 120%; position: absolute; top: 0; left: -10px;" autoplay muted
+                    style="width: 1950px; height: auto; position: absolute; top: 0; left: -10px;" autoplay muted
                     loop></video>
           </div>
           <div class="container">
