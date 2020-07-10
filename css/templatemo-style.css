@@ -382,6 +382,9 @@ https://templatemo.com/tm-521-get-ready
     padding: 0;
     margin: 30px 0 0 0;
     text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 
   .social-icon .line {
