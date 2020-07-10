@@ -41,13 +41,13 @@ https://templatemo.com/tm-521-get-ready
      <div class="menu-bg"></div>
      <div class="menu-burger">☰</div>
 
-     <div class="menu-items">
-          <div class="container" style="
-          height: 100vh;
-          margin: 30px 0;
+     <div class="menu-items" style="
+          height: 1000px;
+          padding: 80px 0;
           color: white;
-          white-space: pre-wrap;
-      ">
+          white-space: wrap;
+      font-size:100%;">
+          <div class="container">
                <div class="row">
                     <div class="col-md-offset-4 col-md-12 col-sm-12">
                               Welcome,
