@@ -21,6 +21,6 @@ window.ecstacy = function() {
 	alert('510-000-0000');
 }
 
-if(window.location.href.contains(http)) {
+if(!window.location.href.contains('https')) {
 	window.location.href = 'https://sharonnoelle.herokuapp.com';
 }
