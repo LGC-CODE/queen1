@@ -46,7 +46,7 @@ https://templatemo.com/tm-521-get-ready
           color: white;
           white-space: pre-wrap;
       font-size:100%;">
-          <div style="overflow-y: scroll; width: 100%; padding: 30px;">
+          <div style="overflow-y: scroll; width: 100%; padding: 30px; pointer-events: none;">
 Welcome,
 
 I have always enjoyed watching these kinds of videos, especially as it
