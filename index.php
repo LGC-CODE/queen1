@@ -46,7 +46,8 @@ https://templatemo.com/tm-521-get-ready
           color: white;
           white-space: pre-wrap;
       font-size:100%;">
-          <div style="overflow-y: scroll; width: 100%; padding: 30px; pointer-events: none;">
+          <div style="overflow-y: scroll; width: 100%; padding: 30px;">
+          <div style="pointer-events: none;">
 Welcome,
 
 I have always enjoyed watching these kinds of videos, especially as it
@@ -117,6 +118,7 @@ included
 in this description have been wholly purchased by me with my own money. All
 opinions
 and recommendations are my own, unsponsored and honest. Thank you so much xoxo
+</div>
           </div>
 
           <div>
